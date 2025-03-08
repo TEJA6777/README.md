@@ -14,6 +14,16 @@
 - **Semester 5:** 8.56  
 📍 **Location:** Faridabad,India,121003  
 
+## 🔹 Education
+🎓 **Bachelor of Technology (2022 - 2026)**  
+**Manav Rachna University, Faridabad**  
+
+🏫 **Board of Intermediate Education Telangana (2020 - 2022)**  
+**Narayana Junior College, hyderabad**  
+
+🏫 **Board of Secondary Education Telangana (2019 - 2020)**  
+**Ekashila CBSE/state Schools, warangal**  
+
 ## 🔹 Skills  
 💻 **Programming:** Python, SQL, Java, HTML, CSS, MySQL  
 📊 **Data & AI:** Machine Learning, Deep Learning, Computer Vision, NLP, Data Visualization  
@@ -31,12 +41,16 @@
 - Worked on **network simulations using Cisco Packet Tracer**.  
 - Explored **switching, MAC tables, VLANs, and network security concepts**.  
 
-## 🔹 Projects  
-🚀 **Personalized Travel Planning System** – A recommendation system using TF-IDF & KNN.  
-🧠 **Parkinson’s Disease Classification** – Analyzed spiral images using CNNs & MobileNet.  
-📊 **Credit Card Fraud Detection** – Achieved **98% accuracy** using XGBoost.  
-📩 **SMS Spam Detection** – Built an NLP model using TF-IDF & various ML algorithms.  
-💡 **IoT Device Control in Cisco Packet Tracer** – Simulated networked IoT automation.  
+## 🔹 Projects
+🔹 **Breast Cancer Classification** – Implemented ML models for early cancer detection.  
+🔹 **Diabetes Classification** – Developed a predictive model for diabetes diagnosis.  
+🔹 **House Price Prediction** – Built a regression model to estimate house prices.  
+🔹 **Spam Classification** – Used NLP techniques to classify spam messages.  
+🔹 **Customer Churn Prediction** – Predicted customer retention using ML algorithms.  
+🔹 **Credit Fraud Detection** – Developed a fraud detection system using ML.  
+🔹 **Parkinson’s Disease Prediction using Images** – Classified spiral images using CNNs.  
+🔹 **Chatbot Chrome Extension** – Created an interactive chatbot using Gemini API.  
+🔹 **Simple Calculator using Tkinter** – Designed a GUI-based calculator in Python.  
 
 ## 🔹 Research Papers  
 📄 **Parkinson’s Disease Classification using Deep Learning**  
